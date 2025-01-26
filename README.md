@@ -1,8 +1,8 @@
-# Portfolio
+# Simple HTML & CSS Portfolio
 
 ## Description
 
-In this project, you will build a portfolio page showcasing your skills and previous work, essential for your job search. The portfolio will demonstrate your proficiency in Flexbox, media queries, and CSS variables, making it responsive and visually appealing across devices. It should feature sections such as your bio, your work, and contact details, with links to live applications you’ve built.
+A portfolio page showcasing your skills and previous work, essential for your job search. The portfolio will demonstrate your proficiency in Flexbox, media queries, and CSS variables, making it responsive and visually appealing across devices. It should feature sections such as your bio, your work, and contact details, with links to live applications you’ve built.
 
 ## Usage
 
