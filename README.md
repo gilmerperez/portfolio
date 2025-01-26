@@ -10,17 +10,17 @@ The portfolio is invoked by opening the `index.html` file in your browser. Make 
 
 ## Instructions
 
-* Create a responsive portfolio layout using Flexbox for the main structure.
+1. Create a responsive portfolio layout using Flexbox for the main structure.
 
-* Use media queries to adjust the layout for different screen sizes.
+2. Use media queries to adjust the layout for different screen sizes.
 
-* Implement CSS variables for maintaining a consistent theme throughout the page.
+3. Implement CSS variables for maintaining a consistent theme throughout the page.
 
-* Include a section dedicated to your previous work with links to deployed applications.
+4. Include a section dedicated to your previous work with links to deployed applications.
 
-* Ensure accessibility by using appropriate alt attributes on all images.
+5. Ensure accessibility by using appropriate alt attributes on all images.
 
-* Deploy your portfolio so that hiring managers can access it.
+6. Deploy your portfolio so that hiring managers can access it.
 
 ## Key Features
 
